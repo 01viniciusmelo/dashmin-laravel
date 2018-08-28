@@ -3,7 +3,7 @@ Plantilla de dashboard y administración basada en bootstrap 4.x. en laravel
 
 Contruida de manera ordenada y sencilla.
 
-![Image of dashmin](dist/img/brand/dashmin.gif?v=2.0.0)
+![Image of dashmin](public/img/brand/dashmin.gif?v=2.0.0)
 
 Dependencias incluidas
 ----
